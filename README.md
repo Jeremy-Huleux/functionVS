@@ -12,7 +12,7 @@ Cette fonction PowerShell simplifie le processus de lancement de Visual Studio �
 1. Clonez ce dépôt ou téléchargez le script `functionVS.ps1` :
 
    ```sh
-   git clone https://github.com/<votre-nom-utilisateur>/functionVS.git
+   git clone https://github.com/Jeremy-Huleux/functionVS.git
    ```
 
 2. Ouvrez votre profil PowerShell en exécutant la commande suivante dans PowerShell :
@@ -62,7 +62,7 @@ This PowerShell function simplifies the process of launching Visual Studio from 
 1. Clone this repository or download the `functionVS.ps1` script file:
 
    ```sh
-   git clone https://github.com/<your-username>/functionVS.git
+   git clone https://github.com/Jeremy-Huleux/functionVS.git
    ```
 
 2. Open your PowerShell profile by running the following command in PowerShell:
